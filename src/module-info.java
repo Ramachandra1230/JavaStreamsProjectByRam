@@ -1,0 +1,2 @@
+module JavaPreparationDec2024 {
+}
